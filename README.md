@@ -1,6 +1,7 @@
 // Submission-for-micheal-reeves-discord-
 //this is c# btw
 //quick bruteforce alg cuz all my other projects are personal
+//not sure how this works to be honest
 
 
 using System;
